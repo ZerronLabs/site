@@ -1,0 +1,154 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 346px;
+		padding-top: 92px;
+		padding-bottom: 62px;
+		max-width: 960px;
+	}
+
+	#pu124
+	{
+		width: 23.96%;
+		margin-left: 38.03%;
+	}
+
+	#u124
+	{
+		width: 39.14%;
+	}
+
+	#u171
+	{
+		width: 39.14%;
+		left: 60.87%;
+	}
+
+	#pu151
+	{
+		margin-top: 19px;
+		width: 23.96%;
+		margin-left: 38.03%;
+	}
+
+	#u151
+	{
+		margin-top: 3px;
+		width: 15.66%;
+	}
+
+	#u161
+	{
+		width: 16.96%;
+		left: 22.18%;
+	}
+
+	#u161:hover
+	{
+		width: 16.96%;
+	}
+
+	#u185
+	{
+		margin-top: 3px;
+		width: 15.66%;
+		left: 60.87%;
+	}
+
+	#u178
+	{
+		width: 16.96%;
+		left: 83.05%;
+	}
+
+	#u161:active,#u178:hover
+	{
+		width: 16.96%;
+	}
+
+	#u178:active
+	{
+		width: 16.96%;
+	}
+
+	#pu360
+	{
+		width: 8.86%;
+		margin-left: 52.61%;
+	}
+
+	#u360
+	{
+		width: 42.36%;
+	}
+
+	#u360:hover
+	{
+		width: 42.36%;
+	}
+
+	#u360:active
+	{
+		width: 42.36%;
+	}
+
+	#u346
+	{
+		width: 36.48%;
+		left: 63.53%;
+	}
+
+	#u346:hover
+	{
+		width: 36.48%;
+	}
+
+	#u346:active
+	{
+		width: 36.48%;
+	}
+
+	#u620
+	{
+		margin-top: 8px;
+		width: 3.75%;
+		margin-left: 52.61%;
+	}
+
+	#u620:hover
+	{
+		margin-top: 8px;
+		width: 3.75%;
+		margin-left: 52.61%;
+	}
+
+	#u620:active
+	{
+		margin-top: 8px;
+		width: 3.75%;
+		margin-left: 52.61%;
+	}
+
+	#u104
+	{
+		margin-top: 312px;
+		width: 24.38%;
+		margin-left: 37.82%;
+	}
+
+	.html
+	{
+		background: -webkit-gradient(linear, center top, center bottom, from(#7C44FF),color-stop(100%, #6039D9));
+		background: -webkit-linear-gradient(top,#7C44FF ,#6039D9 100%);
+		background: linear-gradient(to bottom,#7C44FF ,#6039D9 100%);
+	}
+
