@@ -10,80 +10,93 @@
 
 	#page
 	{
-		min-height: 346px;
-		padding-top: 92px;
-		padding-bottom: 62px;
+		min-height: 328px;
+		padding-bottom: 172px;
 		max-width: 960px;
 	}
 
 	#pu124
 	{
-		width: 23.96%;
-		margin-left: 38.03%;
-	}
-
-	#u124
-	{
-		width: 39.14%;
-	}
-
-	#u171
-	{
-		width: 39.14%;
-		left: 60.87%;
-	}
-
-	#pu151
-	{
-		margin-top: 19px;
-		width: 23.96%;
+		margin-top: 92px;
+		width: 9.38%;
 		margin-left: 38.03%;
 	}
 
 	#u151
 	{
-		margin-top: 3px;
-		width: 15.66%;
+		margin-top: 22px;
+		width: 40%;
+	}
+
+	#u104
+	{
+		margin-left: 117px;
+		max-width: 234px;
+	}
+
+	#u104-wrapper
+	{
+		margin-left: -117px;
+		width: 24.38%;
+		max-width: 234px;
 	}
 
 	#u161
 	{
-		width: 16.96%;
-		left: 22.18%;
+		margin-top: 201px;
+		width: 4.07%;
+		left: 43.34%;
 	}
 
 	#u161:hover
 	{
-		width: 16.96%;
+		margin-top: 201px;
+		width: 4.07%;
+	}
+
+	#u161:active
+	{
+		margin-top: 201px;
+		width: 4.07%;
+	}
+
+	#pu171
+	{
+		margin-top: 92px;
+		width: 9.38%;
+		margin-left: 52.61%;
+	}
+
+	#pu185
+	{
+		margin-top: 19px;
 	}
 
 	#u185
 	{
 		margin-top: 3px;
-		width: 15.66%;
-		left: 60.87%;
+		width: 40%;
 	}
 
 	#u178
 	{
-		width: 16.96%;
-		left: 83.05%;
+		width: 43.34%;
+		left: 56.67%;
 	}
 
-	#u161:active,#u178:hover
+	#u178:hover
 	{
-		width: 16.96%;
+		width: 43.34%;
 	}
 
 	#u178:active
 	{
-		width: 16.96%;
+		width: 43.34%;
 	}
 
 	#pu360
 	{
-		width: 8.86%;
-		margin-left: 52.61%;
+		width: 94.45%;
 	}
 
 	#u360
@@ -120,29 +133,19 @@
 	#u620
 	{
 		margin-top: 8px;
-		width: 3.75%;
-		margin-left: 52.61%;
+		width: 40%;
 	}
 
 	#u620:hover
 	{
 		margin-top: 8px;
-		width: 3.75%;
-		margin-left: 52.61%;
+		width: 40%;
 	}
 
 	#u620:active
 	{
 		margin-top: 8px;
-		width: 3.75%;
-		margin-left: 52.61%;
-	}
-
-	#u104
-	{
-		margin-top: 312px;
-		width: 24.38%;
-		margin-left: 37.82%;
+		width: 40%;
 	}
 
 	.html
@@ -151,4 +154,5 @@
 		background: -webkit-linear-gradient(top,#7C44FF ,#6039D9 100%);
 		background: linear-gradient(to bottom,#7C44FF ,#6039D9 100%);
 	}
+
 
